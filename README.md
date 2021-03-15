@@ -1,2 +1,2 @@
 # Vaksinasi Provinsi Jawa Timur
- this folder includes data on covid vaccination 19 and several other things related to covid vaccination in the province of East Java, Indonesia.
+ This folder includes Case data update on vaccination progres COVID-19 in Indonesia
