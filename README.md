@@ -1,15 +1,15 @@
-# COVID-19 Case and Vaccination Progres Indonesia Dataset
+# COVID-19 Case and Vaccination Progress Indonesia Dataset
 
 ## Context
 
 Since the first time the Covid 19 case in Indonesia attacked, which was announced for the first time on March 2, 2020, it has affected many fields such as the economy to education. many companies or businesses are bankrupt and education is not running properly which is very likely to cause a decline in the academic ability of the nation's young generation. In 2021, Indonesia has started efforts to solve this pandemic through one way, namely vaccines. Several vaccines are used, one of which is Sinovac and will then follow the Nusantara Vaccine.
 
-The reason I created this dataset is not only because I am still pursuing my first professional career (im fresher guys?? )which is still unclear and also provides data which can then be processed as insight to convince the public that this pandemic will end soon?? .
+The reason I created this dataset is not only because I am still pursuing my first professional career (im fresher guys :) )which is still unclear and also provides data which can then be processed as insight to convince the public that this pandemic will end soon?? .
 
 
 ## Content
 
-This data was scraped from several source ( I'll write it down in the Acknowledgments section) on March, 15 2021 by Thoriqul Aziz?? 
+This data was scraped from several source ( I'll write it down in the Acknowledgments section) on March, 15 2021 by Thoriqul Aziz:)
 
 Some data represented all province in Indonesia
 
